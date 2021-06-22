@@ -11,6 +11,8 @@
  * sudo apt-get install libpng libpng-dev
  * compile with
  * g++ pngTest.cpp `libpng-config --ldflags` -o pngTest.out
+ * run with 
+ * ./pngTest.out in.png out.png
  */
 
 #include <array>
