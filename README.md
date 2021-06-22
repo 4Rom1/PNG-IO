@@ -3,8 +3,8 @@
  * http://zarb.org/~gc/html/libpng.html
  * https://gist.github.com/niw/5963798
   
-  Modified by Romain Garnier to read and write from / to
-  different intput/outputs from a png file.
+  Modified by Romain Garnier to read and write from/to
+  different intput/outputs of a png file.
  ## Install libpng :
    https://programmersought.com/article/94135545706/
    
