@@ -7,8 +7,12 @@
   different intput/outputs from a png file.
  ## Install libpng :
    https://programmersought.com/article/94135545706/
+   
    or simply do 
+   
  $ sudo apt-get install libpng libpng-dev
+ 
  compile with
+ 
  $ g++  pngTest.cpp `libpng-config --ldflags` -o pngTest.out
  
