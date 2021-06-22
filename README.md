@@ -2,6 +2,7 @@
   A simple libpng example program taken from
  * http://zarb.org/~gc/html/libpng.html
  * https://gist.github.com/niw/5963798
+  
   Modified by Romain Garnier to read and write from / to
   different intput/outputs from a png file.
  ## Install libpng :
