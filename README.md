@@ -16,3 +16,9 @@
  
  $ g++  pngTest.cpp `libpng-config --ldflags` -o pngTest.out
  
+ run with 
+ 
+ $ ./pngTest.out in.png out.png
+ 
+ 
+ 
